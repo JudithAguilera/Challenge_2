@@ -61,5 +61,5 @@ Use final_check_autoencoder.py to evaluate the performance of the trained autoen
 ### Patient Diagnosis
 Run final_patient_diagnosis.py to classify a patient's diagnosis as healthy or ill. It will return similar performance metrics as final_check_autoencoder.py and use the ROC curve to determine the threshold.
 
-Generate Plots and Extract Info
+### Generate Plots and Extract Info
 Use info.py and plots.py to generate plots and extract useful information about the datasets, model performance, and the files you're working with. This script helps visualize the structure of the datasets and outputs generated during training and evaluation.
